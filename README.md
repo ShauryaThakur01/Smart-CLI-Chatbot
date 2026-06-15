@@ -233,8 +233,7 @@ This project demonstrates:
 
 ## License
 
-This project is open source and available under the MIT License.
-
+This project is open source.
 ## Author
 
 Created as an educational project to explore advanced LLM applications and agentic AI patterns.
